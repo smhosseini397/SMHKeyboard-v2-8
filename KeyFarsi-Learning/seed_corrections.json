@@ -1,0 +1,8 @@
+{
+  "format": "keyfarsi-seed-corrections",
+  "schema_version": 1,
+  "language": "fa",
+  "policy": "suggest_only",
+  "description": "Empty by design. Personal correction pairs are learned from explicit user choices and are never fabricated or silently preloaded.",
+  "pairs": []
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KeyFarsi learning profile",
+  "type": "object",
+  "required": ["format", "schema_version", "app", "created_at_utc", "learning_data"],
+  "properties": {
+    "format": {"const": "keyfarsi-learning-profile"},
+    "schema_version": {"type": "integer", "minimum": 1, "maximum": 1},
+    "app": {"const": "KeyFarsi"},
+    "created_at_utc": {"type": "integer", "minimum": 0},
+    "learning_data": {
+      "type": "object",
+      "properties": {
+        "trigrams": {"type": "string"},
+        "bigrams": {"type": "string"},
+        "correction_memory": {"type": "string"},
+        "learned_words": {"type": "string"},
+        "fa_neural_context_mlp_v1": {"type": "string"},
+        "fa_neural_context_examples_v1": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

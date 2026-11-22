@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21D4D8"/><stop offset="1" stop-color="#5B45D6"/></linearGradient></defs>
+<rect width="720" height="240" rx="32" fill="#11152F"/>
+<rect x="36" y="36" width="168" height="168" rx="30" fill="url(#g)"/>
+<g fill="#fff"><rect x="58" y="60" width="24" height="24" rx="5"/><rect x="91" y="60" width="24" height="24" rx="5"/><rect x="124" y="60" width="24" height="24" rx="5"/><rect x="157" y="60" width="20" height="24" rx="5"/><rect x="58" y="94" width="24" height="24" rx="5"/><rect x="157" y="94" width="20" height="24" rx="5"/><rect x="58" y="128" width="24" height="24" rx="5"/><rect x="91" y="128" width="24" height="24" rx="5"/><rect x="124" y="128" width="24" height="24" rx="5"/><rect x="157" y="128" width="20" height="24" rx="5"/></g>
+<path d="M145 91c-8-9-19-13-34-13-22 0-36 12-36 29 0 15 11 23 34 29 12 3 17 6 17 11 0 6-6 9-14 9-12 0-21-5-29-14l-17 17c11 13 26 20 46 20 25 0 42-12 42-31 0-17-11-26-34-32-12-3-17-5-17-9 0-5 5-8 12-8 9 0 17 3 24 9z" fill="#5B45D6"/>
+<text x="244" y="118" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#fff">SmhKeyboard</text>
+<text x="248" y="166" font-family="Arial,sans-serif" font-size="30" font-weight="600" fill="#21D4D8">IA</text>
+<text x="300" y="166" font-family="Arial,sans-serif" font-size="24" fill="#D8DCF5">Persian Smart Keyboard</text>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- فقط صفحه تنظیمات -->
+    <string name="settings_title">⌨️  SMH Keyboard</string>
+    <string name="settings_intro">Persian and English keyboard with numpad and clipboard</string>
+    <string name="settings_section_size">Size settings</string>
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="settings_enable_keyboard">1. Enable keyboard</string>
+    <string name="settings_choose_keyboard">2. Select SMH Keyboard</string>
+    <string name="settings_save">Save</string>
+    <string name="settings_reset">Reset all settings to default</string>
+    <string name="settings_keyboard_width">Keyboard width (dp)</string>
+    <string name="settings_keyboard_height">Keyboard height (dp)</string>
+    <string name="settings_key_width">Key width (dp)</string>
+    <string name="settings_key_height">Key height (dp)</string>
+    <string name="settings_key_gap">Key gap (dp)</string>
+    <string name="settings_dark_mode">Dark theme</string>
+    <string name="settings_hint_any_number">Any number</string>
+    <string name="settings_toast_saved">Saved</string>
+    <string name="settings_toast_invalid">Enter a valid number</string>
+    <string name="settings_toast_min">Minimum is %1$d</string>
+    <string name="settings_toast_max">Maximum is %1$d</string>
+    <string name="settings_toast_reset">Settings reset</string>
+</resources>

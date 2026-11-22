@@ -1,0 +1,14 @@
+{
+  "format": "keyfarsi-learning-profile",
+  "schema_version": 1,
+  "app": "KeyFarsi",
+  "created_at_utc": 0,
+  "learning_data": {
+    "trigrams": "{}",
+    "bigrams": "{}",
+    "correction_memory": "{}",
+    "learned_words": "{}",
+    "fa_neural_context_mlp_v1": "",
+    "fa_neural_context_examples_v1": 0
+  }
+}
